@@ -7,7 +7,7 @@ class Matakuliah extends CI_Controller
  
         $this->load->view('view-form-matakuliah');
     }
-    '
+    
     public function cetak()
     {
         $data = [
